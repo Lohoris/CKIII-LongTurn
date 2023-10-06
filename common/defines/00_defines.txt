@@ -1,0 +1,9 @@
+﻿NGame = {
+	GAME_SPEED_TICKS = { # how many seconds should a day take in every game speed
+		11520
+		 5760
+		 2880
+		 1440
+		  720
+	}
+}
