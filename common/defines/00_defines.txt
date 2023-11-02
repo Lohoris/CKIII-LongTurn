@@ -3,7 +3,7 @@
 		11520
 		 5760
 		 2880 # 48 minutes (24h = 30 days)
-		 1440 # 24 minutes
-		  720 # 12 minutes
+		  540 #  9 minutes
+		  180 #  3 minutes
 	}
 }
